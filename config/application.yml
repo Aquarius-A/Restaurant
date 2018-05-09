@@ -1,0 +1,9 @@
+spring:
+    thymeleaf:
+        prefix: classpath:/html/
+
+server:
+    port: 8011
+
+logging:
+    config: config/logback-spring.xml
